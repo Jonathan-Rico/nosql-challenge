@@ -20,10 +20,12 @@ Question 3: What are the top 5 establishments with a RatingValue of '5', sorted 
 --Volunteer, Plumstead Manor Nursery , Atlantic Fish Bar, Iceland, Howe and Co Fish and Chips - Van 17	are the top 5 establishments which meet both of the criteria above and are near the new restaurant "Penang Flavours".
 
 Question 4: How many establishments in each Local Authority area have a hygiene score of 0?
-The top 10 Local Authority areas which have a hygiene score of 0 are:
+
+
+**The top 10 Local Authority areas which have a hygiene score of 0 are:**
 --
 Count  Area
-1130	Thanet
+1130  Thanet
 882	  Greenwich
 713	  Maidstone
 711	  Newham
